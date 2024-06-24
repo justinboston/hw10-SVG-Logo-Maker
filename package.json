@@ -1,7 +1,7 @@
 {
     "name": "hw10-svg-logo-maker",
     "version": "1.0.0",
-    "description": "Module 10 Challenge | 10 Object-oriented Programming SVG Logo Maker",
+    "description": "Module 10 Challenge | Object-oriented Programming SVG Logo Maker",
     "main": "index.js",
     "directories": {
       "example": "examples",
