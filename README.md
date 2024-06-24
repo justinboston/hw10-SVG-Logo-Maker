@@ -22,7 +22,7 @@ To use this application:
 <li> After providing a response to all questions/prompts, your newly generated svg logo file will be save to your directory.</li>
 </ul>
 
-For additional usage instructions, please click this [link to view a Demo Video #1](https://drive.google.com/file/d/1wDCSbtn_DsbEwQbAPh7WsVq0qwY21SGr/view?usp=sharing).
+For additional usage instructions, please click this [link to view a Demo Video](https://drive.google.com/file/d/1NRuCGdq4VAPtiQXaY0P_gfQ8CWiY_iBW/view?usp=sharing).
 
 ## Tech & Credits
 
